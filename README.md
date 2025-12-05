@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Rehan Shaikh 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Rehan</a> Is a Aspiring DevOps Engineer with experience in driving innovation through Hands on Kubernetes,Docker and Implementing scalable CI/CD pipelines. proficient in applying best security practices for robust application delivery. </font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Mohsin Javid Mir
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/mohsin-javid-mir-92b858348/" target="_blank" rel="noreferrer">Mohsin Javid Mir</a> Is a Aspiring DevOps Engineer with experience in driving innovation through Hands on Kubernetes,Docker and Implementing scalable CI/CD pipelines. proficient in applying best security practices for robust application delivery. </font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -38,4 +38,4 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[rehanshaikh120703@gmail.com](mailto:rehanshaikh120703@gmail.com)**
+- 📫 How to reach me **[mohsin.mohsinmir176@gmail.com](mailto:mohsin.mohsinmir176@gmail.com)**
